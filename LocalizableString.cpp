@@ -11,7 +11,8 @@
 LocalizableString * LocalizableString::instance = nullptr;
 
 LocalizableString::LocalizableString() {
-    std::string xml = cocos2d::FileUtils::getInstance()->getStringFromFile("Localizable.xml");
+
+    std::string xml = cocos2d::FileUtils::getInstance()->getStringFromFile("Localizable.xml"); //read file on single string
 
     strings.load(xml.c_str());
 
@@ -28,7 +29,7 @@ std::string LocalizableString::get(std::string str) {
         return str;
     }
 
-    auto result = c.child(Parameters::getInstance()->language.c_str());
+    auto result = c.child(Parameters::getInstance()->language.c_str()); // Parameters::getInstance()->language - get current language
     if (result == NULL) {
         result = c.child("EN");
     }
