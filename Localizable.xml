@@ -1,0 +1,66 @@
+<LocalizableString>
+    <START>
+        <RU string="СТАРТ!" />
+        <FR string="DÉBUT!" />
+        <EN string="START!" />
+        <IT string="INIZIO!" />
+		    <SP string="COMIENZO!" />
+        <PT string="COMEÇAR!" />
+        <UA string="СТАРТ!" />
+        <CH string="開始！" />
+        <JP string="開始！" />
+    </START>
+    <GET>
+        <RU string="ПОЛУЧИТЬ" />
+        <FR string="GET" />
+        <EN string="GET" />
+        <IT string="OTTENERE" />
+		    <SP string="OBTENER" />
+        <PT string="OBTER" />
+        <UA string="" />
+        <CH string="得到" />
+        <JP string="" />
+        <DE string="" />
+        <KR string="" />
+        <SE string="" />
+    </GET>
+    <OPEN>
+        <RU string="ОТКРЫТЬ" />
+        <FR string="OUVERT" />
+        <EN string="OPEN" />
+        <IT string="" />
+		    <SP string="" />
+        <PT string="" />
+        <UA string="" />
+        <CH string="" />
+        <JP string="" />
+    </OPEN>
+    <CLOSE>
+        <RU string="ЗАКРЫТЬ" />
+        <FR string="FERMER" />
+        <EN string="CLOSE" />
+        <IT string="" />
+		    <SP string="" />
+        <PT string="" />
+        <UA string="" />
+        <CH string="" />
+        <JP string="" />
+        <DE string="" />
+        <KR string="" />
+        <SE string="" />
+    </CLOSE>
+    <BUY>
+        <RU string="КУПИТЬ" />
+        <FR string="" />
+        <EN string="BUY" />
+        <IT string="" />
+		    <SP string="" />
+        <PT string="" />
+        <UA string="" />
+        <CH string="" />
+        <JP string="" />
+        <DE string="" />
+        <KR string="" />
+        <SE string="" />
+    </BUY>
+</LocalizableString>
