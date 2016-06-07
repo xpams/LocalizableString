@@ -1,14 +1,16 @@
 Localizable String for C++
 
 Framework parse xml with struct:
+```xml
 <LocalizableString>
   <KEY>
     <LANG1 string="string for key on lang1" />
     <LANG2 string="string for key on lang2" />
   </KEY>
 </LocalizableString>
-
+```
 For example:
+```xml
 <LocalizableString>
     <START>
         <RU string="СТАРТ!" />
@@ -47,7 +49,7 @@ For example:
         <JP string="" />		
     </OPEN>
 </LocalizableString>
-
+```
 How to use?
 
 LocalizableString::get("Start");
