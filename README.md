@@ -17,7 +17,6 @@ For example:
         <FR string="DÉBUT!" />
         <EN string="START!" />
         <IT string="INIZIO!" />
-	<SP string="COMIENZO!" />
         <PT string="COMEÇAR!" />		
         <UA string="СТАРТ!" />
         <CH string="開始！" />		
@@ -28,7 +27,6 @@ For example:
         <FR string="GET" />
         <EN string="GET" />
         <IT string="OTTENERE" />
-	<SP string="OBTENER" />
         <PT string="OBTER" />		
         <CH string="得到" />		
     </GET>
