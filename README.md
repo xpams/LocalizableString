@@ -30,23 +30,12 @@ For example:
         <IT string="OTTENERE" />
 	<SP string="OBTENER" />
         <PT string="OBTER" />		
-        <UA string="" />
         <CH string="得到" />		
-        <JP string="" />
-        <DE string="" />
-        <KR string="" />
-        <SE string="" />
     </GET>
     <OPEN>
         <RU string="ОТКРЫТЬ" />
         <FR string="OUVERT" />
         <EN string="OPEN" />
-        <IT string="" />
-	<SP string="" />
-        <PT string="" />		
-        <UA string="" />
-        <CH string="" />		
-        <JP string="" />		
     </OPEN>
 </LocalizableString>
 ```
